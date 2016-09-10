@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".NavigationDrawerActivity"
+    android:scrollbars="vertical"
+    >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbarLiveView"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/primary_dark"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="14dp"
+        android:paddingRight="14dp" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="20dip"
+            android:background="@drawable/logo" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/layout_margin_text"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/editTextStudentId"
+                style="@style/MyTextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:gravity="center"
+                android:hint="@string/text1"
+                android:inputType="number"
+                android:maxLength="20"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/dividerStudentId"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="8dip"
+                android:background="@color/error"
+                android:singleLine="true"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/StudentIdError"
+                style="@style/MyErrorStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="error"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/layout_margin_text"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/editTextUsername"
+                style="@style/MyTextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:hint="@string/text2"
+                android:inputType="text"
+                android:maxLength="20"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/dividerUsername"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="8dip"
+                android:background="@color/error"
+                android:singleLine="true"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/UsernameError"
+                style="@style/MyErrorStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="error"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/layout_margin_text"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/textViewFather"
+                style="@style/MyTextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:hint="@string/text3"
+                android:inputType="text"
+                android:maxLength="20"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/dividerFather"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="8dip"
+                android:background="@color/error"
+                android:singleLine="true"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/FatherError"
+                style="@style/MyErrorStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="error"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/layout_margin_text"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/editTextPhone"
+                style="@style/MyTextViewStyle"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/edittext_height"
+                android:hint="@string/text4"
+                android:inputType="phone"
+                android:maxLength="10"
+                android:maxLines="1" />
+
+            <TextView
+                android:id="@+id/dividerPhone"
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:layout_marginTop="8dip"
+                android:background="@color/error"
+                android:singleLine="true"
+                android:textSize="@dimen/text_size"
+                android:textStyle="bold"
+                android:typeface="serif"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/PhoneError"
+                style="@style/MyErrorStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="error"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/buttonRegister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dip"
+            android:layout_marginBottom="10dip"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:padding="2dip"
+            android:background="@color/primary_dark"
+            android:text="@string/buttonSend"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_size"
+            android:textStyle="bold"
+            android:typeface="serif" />
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

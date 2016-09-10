@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_admission"
+            android:icon="@drawable/ic_action_event"
+            android:title="Admission" />
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/ic_action_download"
+            android:title="Brochure" />
+
+
+        <item
+        android:id="@+id/nav_livevw"
+        android:icon="@drawable/ic_live"
+        android:title="Live view"
+
+            />
+        <item
+            android:id="@+id/nav_student"
+            android:icon="@drawable/ic_action_important"
+            android:title="Student" />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_video"
+            android:title="Video" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/ic_websites"
+            android:title="Website" />
+
+        <item
+            android:id="@+id/nav_rateus"
+            android:icon="@drawable/ic_action_important"
+            android:title="Rate us" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_action_cancel"
+            android:title="Exit" />
+
+    </group>
+
+    <item android:title="">
+        <menu>
+
+        </menu>
+    </item>
+
+</menu>

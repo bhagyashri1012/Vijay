@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/white"
+    >
+ <TextView
+     style="@style/MyTextViewHeaderStyle"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/edittext_height"
+            android:background="@color/primary_dark"
+            android:gravity="center"
+             android:textAllCaps="true"
+            android:text="@string/headertext1" />
+  <TextView android:id="@+id/timer"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
+            android:typeface="serif"
+            android:textSize="@dimen/text_size"
+            android:textColor="@color/text_black"
+            android:gravity="center"
+            android:visibility="gone"
+            /> 
+    <GridView
+        android:id="@+id/grid_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dip"
+        android:columnWidth="120dp"
+        
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:horizontalSpacing="15dp"
+        android:numColumns="auto_fit"
+        android:scrollbars="none"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="15dp" >
+    </GridView>
+
+</LinearLayout>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="vijay.education.academylive"
+    android:versionCode="3"
+    android:versionName="1.0.2" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <permission
+        android:name="vijay.education.academylive.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="vijay.education.academylive.permission.MAPS_RECEIVE" />
+    <!-- GCM requires a Google account. -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <!-- START Added for GCM -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <permission
+        android:name="vijay.education.academylive.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="vijay.education.academylive.permission.C2D_MESSAGE" />
+    <!-- END Added for GCM -->
+    <!-- This app has permission to register and receive data message. -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <!-- Network State Permissions to detect Internet status -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- Permission to vibrate -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:name="vijay.education.academylive.adapter.ApplicationController"
+        android:allowBackup="true"
+        android:configChanges="orientation|screenSize"
+        android:icon="@drawable/valogo1"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity
+            android:name="vijay.education.academylive.SplashScreen"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="vijay.education.academylive.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.Admission"
+            android:noHistory="true"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.androidotp.OtpGeneratorActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.androidotp.ConfirmOtpActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.androidotp.ClassRoomViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.CameraGridViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.vedio.VideoViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.NotificationCountBadgeAndroidActionBar"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.AboutUs"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.androidotp.LoginActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.androidotp.LoginConfirmActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.NotificationDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="vijay.education.academylive.NavigationDrawerActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name=".ACTION.HELLO" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name="vijay.education.academylive.androidotp.IncomingSms" >
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.google.android.gcm.GCMBroadcastReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <!-- Receives the registration id. -->
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="vijay.education.academylive" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="vijay.education.academylive.GCMIntentService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.iid.InstanceID" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyDFV8xBCcGj6cs8aWw4JhgIeGk7UMz79YM" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="vijay.education.academylive.AdvanceWebActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="vijay.education.academylive.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\normal.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\flv_controls.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\flv_controls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_background.9.png",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\dialog_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\trackus.png",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\trackus.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar.png",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\actionbar.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button9.png",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\background_button9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\hover_color.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\hover_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\fvl_selector_play.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\fvl_selector_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\fvl_selector_fullscreen.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\fvl_selector_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\background_transparent.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\image_border.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\image_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\fvl_progress.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\fvl_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\highlightborder.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\highlightborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\track_us.png",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\track_us.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.3.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\trackerlogo1.png",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\trackerlogo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\background.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_bubble_white.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\bg_bubble_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\Vijay\\library\\unspecified\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\fvl_selector_pause.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\fvl_selector_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\background_button_rectangle.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

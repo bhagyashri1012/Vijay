@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_text_size">40sp</dimen>
+    <dimen name="text_size">24sp</dimen>
+    <dimen name="layout_margin_text">10dip</dimen>
+    <dimen name="logo_height">50dip</dimen>
+    <dimen name="logo_weight">50dip</dimen>
+</resources>

@@ -1,0 +1,264 @@
+[
+    {
+        "outputFile": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 58,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 47,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 47,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 49,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 463,
+                        "endColumn": 45,
+                        "endOffset": 508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 58,
+                    "endOffset": 266
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 58,
+                        "endOffset": 412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 271,
+                    "endColumn": 43,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 514,
+                        "endColumn": 43,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 43,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 559,
+                        "endColumn": 43,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 40,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 40,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 46,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 46,
+                        "endOffset": 352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 735
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 740,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endLine": 29,
+                    "endColumn": 8,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 0,
+                        "startOffset": 1261,
+                        "endLine": 38,
+                        "endColumn": 8,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endLine": 40,
+                    "endColumn": 8,
+                    "endOffset": 1858
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 3,
+                        "startOffset": 745,
+                        "endLine": 28,
+                        "endColumn": 8,
+                        "endOffset": 1259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1863,
+                    "endLine": 51,
+                    "endColumn": 8,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-sw720dp-land\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 0,
+                        "startOffset": 1721,
+                        "endLine": 49,
+                        "endColumn": 8,
+                        "endOffset": 2239
+                    }
+                }
+            }
+        ]
+    }
+]

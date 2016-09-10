@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_rootView2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#55000000">
+
+    <RelativeLayout
+        android:id="@+id/contentDialog2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dip"
+        android:background="@drawable/dialog_background"
+        android:padding="30dp">
+
+        <TextView
+            android:id="@+id/title2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="20dp"
+            android:text="Title"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/title_text_size"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="2dip"
+
+            android:layout_below="@+id/title2"
+            android:background="@color/grey"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/text_size"
+            android:typeface="serif" />
+
+        <ScrollView
+            android:id="@+id/message_scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title2"
+            android:paddingBottom="5dp"
+            android:scrollbarSize="2dp"
+
+            android:scrollbarThumbVertical="@color/grey">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/message2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+
+                    android:textColor="@android:color/black"
+                    android:textSize="@dimen/text_size"
+                    android:typeface="serif" />
+                <RadioGroup
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text"
+                    android:id="@+id/myRadioGroup"
+
+                    android:checkedButton="@+id/rta_dialog_3" >
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/msg1"
+                       android:padding="2dip"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/text_size"
+                        android:typeface="serif"
+                        android:text="@string/msg_dialog_1" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/msg2"
+                        android:padding="2dip"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/text_size"
+                        android:typeface="serif"
+                        android:text="@string/msg_dialog_2" />
+
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/msg3"
+                        android:padding="2dip"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/text_size"
+                        android:typeface="serif"
+                        android:text="@string/msg_dialog_3" />
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/msg4"
+                        android:padding="2dip"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/text_size"
+                        android:typeface="serif"
+                        android:text="@string/msg_dialog_4" />
+                    <RadioButton
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/msg5"
+                        android:padding="2dip"
+                        android:textColor="@android:color/black"
+                        android:textSize="@dimen/text_size"
+                        android:typeface="serif"
+                        android:text="@string/msg_dialog_5" />
+                </RadioGroup>
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/message_scrollView"
+            android:layout_margin="10dp"
+            android:orientation="horizontal">
+           <vijay.education.academy.viewPager.ButtonFlat
+                android:id="@+id/button_accept"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#1E88E5"
+                android:text="@string/buttonSubmit" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

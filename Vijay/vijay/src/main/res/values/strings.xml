@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name" tools:ignore="MissingTranslation">VijayEduLive</string>
+    <string name="app_title_name" tools:ignore="MissingTranslation">REACH US</string>
+    <string name="action_exit" tools:ignore="MissingTranslation">Exit</string>
+    <string name="action_about" tools:ignore="MissingTranslation">About</string>
+    <string name="frg1" tools:ignore="MissingTranslation">Geeta Bhawan Campus</string>
+    <string name="frg2" tools:ignore="MissingTranslation">Ranjeet Hanuman Campus</string>
+    <string name="frg3" tools:ignore="MissingTranslation">Mhow Campus</string>
+    <string name="text1">Student ID</string>
+    <string name="text2">Student Name</string>
+    <string name="text3">Father Name</string>
+    <string name="text4">Mobile Number</string>
+    <string name="buttonSubmit">SUBMIT</string>
+    <string name="buttonSend">Request Video</string>
+    <string name="text5">Username</string>
+    <string name="buttonReg">REGISTER</string>
+    <string name="textverfi">Enter the code received</string>
+    <string name="buttonResend">Resend OTP</string>
+    <string name="buttonConfirm">Confirm</string>
+    <string name="copyrights">2016- Vijay Education Academy.</string>
+    <string name="allrights">All rights reserved.</string>
+    <string name="develpedBy">Developed by</string>
+    <string name="develpedBynm">SOFF Technologies</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="headertext1">Classroom View</string>
+    <string name="headertext2">Camera View</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="rta_dialog_ok">Rate now</string>
+    <string name="rta_dialog_cancel">Later</string>
+
+    <string name="msg_dialog_1">App is not user friendly</string>
+    <string name="msg_dialog_2">Picture was not clear</string>
+    <string name="msg_dialog_3">Audio was not audible</string>
+    <string name="msg_dialog_4">Wrong Class were opened</string>
+    <string name="msg_dialog_5">I am satisfied</string>
+    <string name="registered">You can receive notification </string>
+    <string name="un_register">You cannot receive notification</string>
+</resources>

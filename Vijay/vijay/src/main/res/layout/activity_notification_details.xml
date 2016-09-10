@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_bubble_white"
+    android:orientation="horizontal"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:paddingTop="5dp" >
+
+    <LinearLayout
+        android:id="@+id/linearMainDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+<RelativeLayout 
+     android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+    >
+        <ImageView
+            android:layout_width="60dip"
+            android:layout_height="60dip"
+            android:src="@drawable/ic_bell" 
+            android:layout_margin="2dip"
+            android:padding="10dp"
+            android:background="@color/primary_dark"
+            />
+
+        <TextView
+            android:id="@+id/textviewNotiDetailsTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_margin="5dp"
+            android:lines="1"
+            android:text="Vijay Education"
+            android:textSize="@dimen/text_size" />
+</RelativeLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textviewNotiDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearMainDetails"
+        android:autoLink="web"
+        android:gravity="center_vertical"
+        android:linksClickable="true"
+        android:scrollbarStyle="outsideOverlay"
+        android:scrollbars="vertical"
+        android:singleLine="false"
+        android:textSize="@dimen/text_size"
+        android:textStyle="bold"
+        android:typeface="serif"
+        android:text=""
+        android:layout_margin="15dp"
+        />
+
+</RelativeLayout>

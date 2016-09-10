@@ -1,0 +1,10 @@
+<resources>
+
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="layout_padding_outerlayout">12dip</dimen>
+    <dimen name="layout_margin_text">8dip</dimen>
+ <dimen name="edittext_height">34dip</dimen>
+    <dimen name="logo_height">40dip</dimen>
+    <dimen name="logo_weight">40dip</dimen>
+</resources>

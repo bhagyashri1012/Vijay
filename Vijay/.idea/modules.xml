@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Vijay.iml" filepath="$PROJECT_DIR$/Vijay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportv7recyclerview/androidsupportv7recyclerview.iml" filepath="$PROJECT_DIR$/androidsupportv7recyclerview/androidsupportv7recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vijay/vijay.iml" filepath="$PROJECT_DIR$/vijay/vijay.iml" />
+    </modules>
+  </component>
+</project>

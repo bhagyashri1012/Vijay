@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relative_layout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+      android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+  
+  <RelativeLayout
+        android:id="@+id/tootbarLayoutNoti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <include
+            android:id="@+id/tool_bar2"
+            layout="@layout/tool_bar" >
+        </include>
+        </RelativeLayout>
+         <RelativeLayout
+             android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tootbarLayoutNoti" >
+       <ListView
+             android:id="@+id/listView1"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:layout_centerHorizontal="true"
+android:transcriptMode="normal"
+             >
+         </ListView>
+       <!--   <TextView
+        android:id="@+id/textviewNoti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:layout_below="@+id/tool_bar2"
+        android:textSize="@dimen/title_text_size"
+        android:background="@drawable/border"
+        android:textStyle="normal"
+        android:typeface="sans"
+        /> -->
+      </RelativeLayout>
+
+         
+     
+</RelativeLayout>

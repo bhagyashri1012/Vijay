@@ -1,0 +1,163 @@
+[
+    {
+        "outputFile": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\values-large-mdpi-1024x600-v4\\values-large-mdpi-1024x600-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 192,
+                        "endColumn": 44,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 50,
+                    "endOffset": 149
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 50,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 154,
+                    "endColumn": 43,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 43,
+                        "endOffset": 279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 43,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 43,
+                        "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 40,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 40,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 46,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 46,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endLine": 17,
+                    "endColumn": 8,
+                    "endOffset": 778
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 830,
+                        "endLine": 29,
+                        "endColumn": 8,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 783,
+                    "endLine": 28,
+                    "endColumn": 8,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-large-mdpi-1024x600\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 325,
+                        "endLine": 19,
+                        "endColumn": 8,
+                        "endOffset": 829
+                    }
+                }
+            }
+        ]
+    }
+]

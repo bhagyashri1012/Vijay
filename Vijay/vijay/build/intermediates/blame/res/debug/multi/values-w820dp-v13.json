@@ -1,0 +1,226 @@
+[
+    {
+        "outputFile": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 57,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 47,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 47,
+                        "endOffset": 466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 50,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 50,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 212,
+                    "endColumn": 43,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 43,
+                        "endOffset": 511
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 43,
+                    "endOffset": 295
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 43,
+                        "endOffset": 556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 300,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 588
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 593,
+                    "endColumn": 78,
+                    "endOffset": 667
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 729,
+                        "endColumn": 75,
+                        "endOffset": 804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 672,
+                    "endLine": 17,
+                    "endColumn": 8,
+                    "endOffset": 787
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 578,
+                        "endLine": 17,
+                        "endColumn": 8,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 792,
+                    "endLine": 27,
+                    "endColumn": 8,
+                    "endOffset": 1241
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 1325,
+                        "endLine": 41,
+                        "endColumn": 8,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1246,
+                    "endLine": 38,
+                    "endColumn": 8,
+                    "endOffset": 1750
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 807,
+                        "endLine": 30,
+                        "endColumn": 8,
+                        "endOffset": 1321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1755,
+                    "endLine": 49,
+                    "endColumn": 8,
+                    "endOffset": 2263
+                },
+                "from": {
+                    "file": "C:\\Users\\Bhagya\\AndroidStudioProjects\\Vijay\\vijay\\src\\main\\res\\values-w820dp\\styles.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 0,
+                        "startOffset": 1785,
+                        "endLine": 52,
+                        "endColumn": 8,
+                        "endOffset": 2303
+                    }
+                }
+            }
+        ]
+    }
+]

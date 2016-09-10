@@ -1,0 +1,573 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:2:1-150:12
+	xmlns:android
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [Vijay:library:unspecified] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\Vijay\library\unspecified\AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:8:9-35
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:23:9-75
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:11:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:17:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:18:5-98
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:18:22-95
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:19:22-72
+permission#vijay.education.academylive.permission.MAPS_RECEIVE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:21:5-23:47
+	android:protectionLevel
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:23:9-44
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:22:9-75
+uses-permission#vijay.education.academylive.permission.MAPS_RECEIVE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:25:5-91
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:25:22-88
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:27:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:29:5-68
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:29:22-65
+permission#vijay.education.academylive.permission.C2D_MESSAGE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:31:5-33:47
+	android:protectionLevel
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:32:9-74
+uses-permission#vijay.education.academylive.permission.C2D_MESSAGE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:35:5-90
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:35:22-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:38:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:38:22-79
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:42:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:43:5-80
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:43:22-77
+application
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:45:5-148:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\design\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:50:9-41
+	android:allowBackup
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:48:9-35
+	android:icon
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:49:9-41
+	android:configChanges
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:47:9-55
+	android:theme
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:51:9-52
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:46:9-54
+activity#vijay.education.academylive.SplashScreen
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:54:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:53:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:55:13-59:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:58:27-74
+activity#vijay.education.academylive.MainActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:63:9-65:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:65:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:64:13-41
+activity#vijay.education.academylive.Admission
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:66:9-69:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:69:13-49
+	android:noHistory
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:67:13-38
+activity#vijay.education.academylive.androidotp.OtpGeneratorActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:70:9-72:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:72:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:71:13-60
+activity#vijay.education.academylive.androidotp.ConfirmOtpActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:73:9-75:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:74:13-58
+activity#vijay.education.academylive.androidotp.ClassRoomViewActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:76:9-78:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:78:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:77:13-61
+activity#vijay.education.academylive.CameraGridViewActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:79:9-81:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:81:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:80:13-51
+activity#vijay.education.academylive.vedio.VideoViewActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:82:9-84:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:84:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:83:13-52
+activity#vijay.education.academylive.NotificationCountBadgeAndroidActionBar
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:85:9-87:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:87:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:86:13-67
+activity#vijay.education.academylive.AboutUs
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:88:9-90:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:89:13-36
+activity#vijay.education.academylive.androidotp.LoginActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:91:9-93:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:92:13-53
+activity#vijay.education.academylive.androidotp.LoginConfirmActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:94:9-96:52
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:95:13-60
+activity#vijay.education.academylive.NotificationDetails
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:97:9-99:61
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:99:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:98:13-48
+activity#vijay.education.academylive.NavigationDrawerActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:101:9-110:20
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:104:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:102:13-53
+	android:launchMode
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:103:13-43
+intent-filter#.ACTION.HELLO+android.intent.category.DEFAULT
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:105:13-109:29
+action#.ACTION.HELLO
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:106:17-56
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:106:25-53
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:108:17-76
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:108:27-73
+receiver#vijay.education.academylive.androidotp.IncomingSms
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:112:9-116:20
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:112:19-57
+intent-filter#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:113:13-115:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:114:17-82
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:114:25-79
+receiver#com.google.android.gcm.GCMBroadcastReceiver
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:117:9-128:20
+	android:exported
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:119:13-36
+	android:permission
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:120:13-73
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:118:13-71
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+vijay.education.academylive
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:121:13-127:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:122:17-81
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:122:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:124:17-86
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:124:25-83
+category#vijay.education.academylive
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:126:17-72
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:126:27-69
+service#vijay.education.academylive.GCMIntentService
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:130:9-136:19
+	android:exported
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:132:13-37
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:131:13-72
+intent-filter#com.google.android.iid.InstanceID
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:133:13-135:29
+action#com.google.android.iid.InstanceID
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:134:17-76
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:134:25-73
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:138:9-140:71
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:139:13-62
+	android:value
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:140:13-68
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:141:9-143:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:142:13-58
+	android:value
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:143:13-66
+activity#vijay.education.academylive.AdvanceWebActivity
+ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:144:9-146:61
+	android:screenOrientation
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:146:13-49
+	android:name
+		ADDED from C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\src\main\AndroidManifest.xml:145:13-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:21:9-24:46
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:22:19-78
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:24:19-43
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:23:19-52
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:21:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\AndroidManifest.xml:29:13-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:21:19-78
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:22:19-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:10:13-37
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:8:13-72
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:22:5-24:33
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:24:8-31
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.0.2] C:\Users\Bhagya\AndroidStudioProjects\Vijay\vijay\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\AndroidManifest.xml:23:8-40

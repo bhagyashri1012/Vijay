@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+    <dimen name="edittext_height">40dip</dimen>
+    <dimen name="layout_margin_text">8dip</dimen>
+    <dimen name="layout_padding_outerlayout">10dip</dimen>
+    <dimen name="logo_height">60dip</dimen>
+    <dimen name="logo_weight">60dip</dimen>
+    <dimen name="text_size">12sp</dimen>
+    <dimen name="title_text_size">16sp</dimen>
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="MyErrorStyle">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#DD2C00</item>
+    <item name="android:typeface">serif</item>
+       <item name="android:textSize">10sp</item>
+    <item name="android:textStyle">normal</item>
+    <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+</style>
+    <style name="MyTextViewStyle">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#000000</item>
+    <item name="android:typeface">serif</item>
+       <item name="android:textSize">14sp</item>
+         <item name="android:background">#E0E0E0</item>
+    <item name="android:textStyle">normal</item>
+      <item name="android:gravity">center</item>
+    <item name="android:padding">3dp</item>    
+</style>
+    <style name="MyTextViewStyleLogin">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textColor">#000000</item>
+    <item name="android:typeface">serif</item>
+       <item name="android:textSize">14sp</item>
+         <item name="android:background">#FFFFFF</item>
+    <item name="android:textStyle">normal</item>
+     <item name="android:gravity">center</item>
+    <item name="android:padding">3dp</item>    
+</style>
+</resources>

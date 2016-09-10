@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "979202588794",
+    "firebase_url": "https://vijay-1265.firebaseio.com",
+    "project_id": "vijay-1265",
+    "storage_bucket": "vijay-1265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979202588794:android:223da52aaca40cb9",
+        "android_client_info": {
+          "package_name": "vijay.education.academy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979202588794-qfb493qr1b0q4f0fm3qpda6k575e7ar7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vijay.education.academy",
+            "certificate_hash": "1163760C6D85481958A596BDAF272E1E91B6EF80"
+          }
+        },
+        {
+          "client_id": "979202588794-6h0rrbeo5185fvjagvlnv50v0hhu1td7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8O4BoRXwGG6mStRdeTwa7k99bLmZ9038"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979202588794-6h0rrbeo5185fvjagvlnv50v0hhu1td7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

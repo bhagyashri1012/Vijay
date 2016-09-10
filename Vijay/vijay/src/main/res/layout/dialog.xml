@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_rootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#55000000"
+     >
+
+    <RelativeLayout
+        android:id="@+id/contentDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="5dip"
+        android:background="@drawable/dialog_background"
+        android:padding="30dp">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_centerHorizontal="true"
+            android:text="Title"
+            android:textStyle="bold"
+               android:textColor="@android:color/black"
+             android:textSize="@dimen/title_text_size"
+                        android:typeface="serif"
+            />
+        <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dip"
+        android:background="@color/grey"
+        android:layout_below="@+id/title"
+         android:textColor="@android:color/black"
+                        android:textSize="@dimen/text_size"
+                        android:typeface="serif"
+        />
+
+        <ScrollView
+            android:id="@+id/message_scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:paddingBottom="5dp"
+            android:scrollbarSize="2dp"
+            android:scrollbarThumbVertical="@color/grey" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dip"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/message"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                   android:textColor="@android:color/black"
+                   android:layout_gravity="center"
+                   android:layout_margin="5dip"
+             android:textSize="@dimen/title_text_size"
+                        android:typeface="serif"/>
+                <!-- <RatingBar
+                android:id="@+id/rating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="?android:attr/ratingBarStyleSmall"
+            android:layout_gravity="center"
+            android:layout_margin="5dip"
+            android:numStars="5"
+            android:stepSize="0.1"
+            
+            android:isIndicator="true"/>-->
+                
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/message_scrollView"
+            android:layout_margin="10dp"
+            android:orientation="horizontal" >
+
+            <vijay.education.academy.viewPager.ButtonFlat
+                android:id="@+id/button_cancel"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="CANCEL"                
+                android:background="#1E88E5"
+                android:visibility="gone"
+                 />
+
+           
+            <vijay.education.academy.viewPager.ButtonFlat
+                android:id="@+id/button_accept"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="RATE NOW"
+                android:background="#1E88E5" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+<android.support.v4.widget.DrawerLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:elevation="7dp"
+    android:windowSoftInputMode="adjustPan" >
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:measureAllChildren="true"
+        android:clickable="true"
+        android:layout_marginTop="?attr/actionBarSize"
+        android:padding="@dimen/layout_padding_outerlayout" >
+    <include layout="@layout/slide_dashboard" >
+    </include>
+    </FrameLayout>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="270dp"
+
+        android:layout_height="match_parent"
+        android:minWidth="260dip"
+        android:layout_gravity="start|left"
+        android:background="#ffffff"
+        android:scrollbars="vertical" />
+    
+
+</android.support.v4.widget.DrawerLayout>
+</LinearLayout>
